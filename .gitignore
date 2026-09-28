@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Secrets
+*.secret.yaml
+secrets.yaml
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
+.terraform
+terraform.*
+.terraform.*.*
